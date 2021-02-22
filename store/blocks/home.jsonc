@@ -1,0 +1,30 @@
+{
+  "store.home": { 
+    "blocks": [
+      "rich-text", "info-card#pixel"
+    ]
+  },
+  "rich-text": { 
+    "props": { 
+      "text": "Lili Pink",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-1"
+    }
+  },
+  "info-card#pixel": {
+    "props":{
+      "id": "infoCardPixel",
+      "isFullModeStyle": true,
+      "textPosition": "left",
+      "imageUrl": "assets/sh1.jpg",
+      "headline": "Esta es la consultora elegida",
+      "subhead": "MQA partner Vtex",
+      "callToActionText": "conoce mas",
+      "callToActionUrl": "#",
+      "textAlignment": "left",
+      "blockClass": "infoCardPixel"
+
+    }
+  }
+}
